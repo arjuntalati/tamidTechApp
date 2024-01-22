@@ -1,2 +1,2 @@
 # tamidTechApp
-Arjun Talati application, Junior Engineer Coding Solutions
+Arjun Talati application, Junior Engineer Python Coding Solutions
