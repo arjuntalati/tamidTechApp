@@ -1,0 +1,7 @@
+# Challenge 4: Palindrome
+def isPalindrome(word):
+    print(f'"{word}" is a palindrome') if word == word[::-1] else print(f'"{word}" is not a palindrome')
+
+
+word = input("Please enter a string: ")
+isPalindrome(word)
